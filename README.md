@@ -1,10 +1,6 @@
 # Old FPS
 
->Status: Developing ⚠️
-
->Unity used 2019.2.18f1
-
-# https://syr.us/nVv
+>Unity used 2019.4.41f1
 
 The aiming function is not enabled because it has not yet been created
 
